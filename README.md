@@ -1,4 +1,4 @@
-<a href="duic-shitposters-text-masker/blob/main/README_NL.md" style="text-align: right"> lees in het Nederlands </a>
+<a href="blob/main/README_NL.md"> lees in het Nederlands </a>
 
 # DUIC shitposters text masker
 
