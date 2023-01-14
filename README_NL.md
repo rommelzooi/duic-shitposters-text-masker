@@ -11,7 +11,7 @@ Wie poep praat, praat poep, letterlijk. Deze Firefox browser Add-on verandert de
   
 # Installatie
 
-### Manual
+### Handmatig
 
 1. [Download](https://github.com/rommelzooi/duic-shitposters-text-masker/raw/main/duic_shitposters_text_masker-0.1.3.xpi) the add-on naar je computer
 2. Open Firefox
@@ -19,7 +19,7 @@ Wie poep praat, praat poep, letterlijk. Deze Firefox browser Add-on verandert de
 4. Bevestig dat je de extensie wilt installeren in de pop-up
 5. Geniet van DUIC zoals je normaal zou doen
 
-### Extensions store 
+### Via de extensions store 
 
 Wordt aan gewerkt.
 
