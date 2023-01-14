@@ -1,4 +1,4 @@
-<a href="README.md"> read in English </a>
+<a href="../"> read in English </a>
 
 # DUIC shitposters text masker
 Wie poep praat, praat poep, letterlijk. This Firefox Add-on literally turns posts of infamous blacklisted DUIC shitposters into shit.
