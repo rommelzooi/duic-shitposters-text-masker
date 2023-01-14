@@ -1,4 +1,4 @@
-<a href="blob/main/README_NL.md"> lees in het Nederlands </a>
+<a href="README_NL.md"> lees in het Nederlands </a>
 
 # DUIC shitposters text masker
 
