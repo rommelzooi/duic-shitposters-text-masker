@@ -16,7 +16,7 @@ Developers can run this extenstion in development mode using the [web-ext comman
 
 **example**
 ```
-$web-ext -s webext run --start-url https://www.duic.nl/algemeen/grote-brand-bij-busstalling-westraven-in-utrecht-vijftien-bussen-getroffen-meerdere-volledige-uitgebrand/
+$ web-ext -s webext run --start-url https://www.duic.nl/algemeen/grote-brand-bij-busstalling-westraven-in-utrecht-vijftien-bussen-getroffen-meerdere-volledige-uitgebrand/
 ```
 
 # Further work
