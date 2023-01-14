@@ -8,8 +8,9 @@ function maskShit(blacklist) {
   for(comment of comments) {
     if(blacklist.includes(comment.textContent)) {
       const li = comment.closest("li")
-      const p = li.querySelector("p")
-      p.textContent = Array.from(p.textContent).map( e => (Math.random() < 0.5 ? e : '💩' )).join("")
+      const ps = li.querySelectorAll("p").forEach((p, i) => {
+        p.textContent = Array.from(p.textContent).map( e => (Math.random() < 0.5 ? e : '💩' )).join("")
+      });
     }
   }
 }
