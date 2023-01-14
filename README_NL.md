@@ -1,37 +1,28 @@
 <a href="../../"> read in English </a>
 
 # DUIC shitposters text masker
-Wie poep praat, praat poep, letterlijk. This Firefox Add-on literally turns posts of infamous blacklisted DUIC shitposters into shit.
+Wie poep praat, praat poep, letterlijk. Deze Firefox browser Add-on verandert de tekst van sommige beruchte DUIC reaguurders in poep. 
 
-[DUIC](https://www.duic.nl) is a local news site based in the city of Utrecht (Netherlands). It is a valuable news source, but is suffers from some infamous shitposters. This Add-on was not made to deny their existence, but just to give some relief in a fun way.
+[DUIC](https://www.duic.nl) is een lokaal Utrechts nieuwsplatform. Het is een waardevolle bron van lokaal nieuws, maar er zitten enkele beruchte reaguurders op. Deze add-on probeert niet hun bestaan te ontkennen, maar geeft een beetje verlichting op een ludieke manier.
 
 <p align="left">
   <img src="screenshot.jpg" width="100%"/>
 </p>
   
-# Installation
+# Installatie
 
 ### Manual
 
-1. [Download](https://github.com/rommelzooi/duic-shitposters-text-masker/raw/main/duic_shitposters_text_masker-0.1.3.xpi) the add-on to your local disk
+1. [Download](https://github.com/rommelzooi/duic-shitposters-text-masker/raw/main/duic_shitposters_text_masker-0.1.3.xpi) the add-on naar je computer
 2. Open Firefox
-3. Drag and drop the extension file (duic_shitposters_text_masker-0.1.3.xpi) onto Firefox
-4. Approve the exension when dialogs pop up
-5. Enjoy DUIC like you would normally do
+3. Sleep the file (duic_shitposters_text_masker-0.1.3.xpi) op het Firefox window
+4. Bevestig dat je de extensie wilt installeren in de pop-up
+5. Geniet van DUIC zoals je normaal zou doen
 
 ### Extensions store 
 
-Soon to be ready.
+Wordt aan gewerkt.
 
-### Development
+# Verder
 
-Developers can run this extenstion in development mode using the [web-ext command line tool](https://github.com/mozilla/web-ext).
-
-**example**
-```
-$ web-ext -s webext run --start-url https://www.duic.nl/algemeen/grote-brand-bij-busstalling-westraven-in-utrecht-vijftien-bussen-getroffen-meerdere-volledige-uitgebrand/
-```
-
-# Further work
-
-In time this project may become more general purpose. Also having a user configurable blacklist is on the todo list.
+In de toekomst zou het leuk zijn als deze tool ook voor andere platforms kan werken.
