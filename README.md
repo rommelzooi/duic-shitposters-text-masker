@@ -14,7 +14,7 @@ Shit will be shit. This Firefox Add-on literally turns posts of infamous blackli
 
 ### Manual
 
-1. [Download](https://github.com/rommelzooi/duic-shitposters-text-masker/raw/main/duic_shitposters_text_masker-0.1.3.xpi) the add-on to your local disk
+1. [Download](https://github.com/rommelzooi/duic-shitposters-text-masker/raw/main/duic_shitposters_text_masker-0.1.4.xpi) the add-on to your local disk
 2. Open Firefox
 3. Drag and drop the extension file (duic_shitposters_text_masker-0.1.3.xpi) onto Firefox
 4. Approve the exension when dialogs pop up
