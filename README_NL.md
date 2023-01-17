@@ -13,7 +13,7 @@ Wie poep praat, praat poep, letterlijk. Deze Firefox browser Add-on verandert de
 
 ### Handmatig
 
-1. [Download](https://github.com/rommelzooi/duic-shitposters-text-masker/raw/main/duic_shitposters_text_masker-0.1.3.xpi) the add-on naar je computer
+1. [Download](https://github.com/rommelzooi/duic-shitposters-text-masker/raw/main/duic_shitposters_text_masker-0.1.4.xpi) the add-on naar je computer
 2. Open Firefox
 3. Sleep the file (duic_shitposters_text_masker-0.1.3.xpi) op het Firefox window
 4. Bevestig dat je de extensie wilt installeren in de pop-up
